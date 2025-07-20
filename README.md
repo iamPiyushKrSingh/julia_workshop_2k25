@@ -4,6 +4,7 @@ This repo contains all the notebooks which are used in Julia Workshop conducted 
 
 Topics covered in the workshop:
 
+- Basic REPL commands & Features
 - Introduction to Julia
 - Data Structures
 - Functions and Modules
@@ -61,7 +62,8 @@ The workshop notebooks are structured in a way that each topic is covered in a s
 
 The notebooks are organized as follows:
 
-- `01_introduction_to_julia.ipynb`: Introduction to Julia, its features, and basic syntax.
+- [`00_repl_and_more.ipynb`](./notebooks/00_repl_and_more.ipynb): Introduction to the Julia REPL, basic commands, and features.
+- [`01_introduction_to_julia.ipynb`](./notebooks/01_introduction_to_julia.ipynb): Introduction to Julia, its features, and basic syntax.
 
 ## Requirements
 
