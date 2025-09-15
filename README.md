@@ -64,6 +64,7 @@ The notebooks are organized as follows:
 
 - [`00_repl_and_more.ipynb`](./notebooks/00_repl_and_more.ipynb): Introduction to the Julia REPL, basic commands, and features.
 - [`01_introduction_to_julia.ipynb`](./notebooks/01_introduction_to_julia.ipynb): Introduction to Julia, its features, and basic syntax.
+- [`02_data_structures.ipynb`](./notebooks/02_data_structures.ipynb): Introduction to data structures in Julia, including arrays, tuples, and dictionaries.
 
 ## Requirements
 
