@@ -66,6 +66,7 @@ The notebooks are organized as follows:
 - [`01_introduction_to_julia.ipynb`](./notebooks/01_introduction_to_julia.ipynb): Introduction to Julia, its features, and basic syntax.
 - [`02_data_structures.ipynb`](./notebooks/02_data_structures.ipynb): Introduction to data structures in Julia, including arrays, tuples, and dictionaries.
 - [`03_iterators.ipynb`](./notebooks/03_iterators.ipynb): Introduction to iterators and loops in Julia.
+- [`04_conditionals.ipynb`](./notebooks/04_conditionals.ipynb): Introduction to conditional statements in Julia.
 
 ## Requirements
 
