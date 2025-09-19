@@ -7,17 +7,11 @@ Topics covered in the workshop:
 - Basic REPL commands & Features
 - Introduction to Julia
 - Data Structures
-- Functions and Modules
+- Functions
+- Packages
 - Plotting with Plots.jl
-- DataFrames.jl
 - Working with CSV files
-- Basic Statistics
 - Linear Algebra
-
-Advanced topics:
-
-- Parallel Computing
-- Meta-programming
 
 ## How to follow along the workshop
 
@@ -67,6 +61,8 @@ The notebooks are organized as follows:
 - [`02_data_structures.ipynb`](./notebooks/02_data_structures.ipynb): Introduction to data structures in Julia, including arrays, tuples, and dictionaries.
 - [`03_iterators.ipynb`](./notebooks/03_iterators.ipynb): Introduction to iterators and loops in Julia.
 - [`04_conditionals.ipynb`](./notebooks/04_conditionals.ipynb): Introduction to conditional statements in Julia.
+- [`05_functions.ipynb`](./notebooks/05_functions.ipynb): Introduction to functions in Julia.
+- [`06_packages.ipynb`](./notebooks/06_packages.ipynb): Introduction to packages and package management in Julia.
 
 ## Requirements
 
