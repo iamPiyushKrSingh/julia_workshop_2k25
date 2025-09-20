@@ -63,6 +63,7 @@ The notebooks are organized as follows:
 - [`04_conditionals.ipynb`](./notebooks/04_conditionals.ipynb): Introduction to conditional statements in Julia.
 - [`05_functions.ipynb`](./notebooks/05_functions.ipynb): Introduction to functions in Julia.
 - [`06_packages.ipynb`](./notebooks/06_packages.ipynb): Introduction to packages and package management in Julia.
+- [`07_plotting.ipynb`](./notebooks/07_plotting.ipynb): Introduction to plotting in Julia using the `Plots.jl` package.
 
 ## Requirements
 
