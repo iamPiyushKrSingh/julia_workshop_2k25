@@ -14,8 +14,8 @@ Topics covered in the workshop:
 
 At the end of each day, there will be a small application-based notebook to practice the concepts learned during the day.
 
-- Day 1: Naive Integration
-- Day 2: Generating Mandelbrot Set
+- Day 1: Estimating the value of π using Buffon's Needle Problem, see [`day1_buffon_needle.ipynb`](./applications/day1_buffon_needle.ipynb)
+- Day 2: Generating Mandelbrot Set, see [`day2_mandelbrot_set.ipynb`](./applications/day2_mandelbrot_set.ipynb)
 
 ## How to follow along the workshop
 
