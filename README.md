@@ -11,7 +11,11 @@ Topics covered in the workshop:
 - Packages
 - Plotting with Plots.jl
 - Working with CSV files
-- Linear Algebra
+
+At the end of each day, there will be a small application-based notebook to practice the concepts learned during the day.
+
+- Day 1: Naive Integration
+- Day 2: Generating Mandelbrot Set
 
 ## How to follow along the workshop
 
@@ -64,6 +68,7 @@ The notebooks are organized as follows:
 - [`05_functions.ipynb`](./notebooks/05_functions.ipynb): Introduction to functions in Julia.
 - [`06_packages.ipynb`](./notebooks/06_packages.ipynb): Introduction to packages and package management in Julia.
 - [`07_plotting.ipynb`](./notebooks/07_plotting.ipynb): Introduction to plotting in Julia using the `Plots.jl` package.
+- [`08_csv_handling.ipynb`](./notebooks/08_csv_handling.ipynb): Introduction to handling CSV files in Julia using the `CSV.jl` and `DataFrames.jl` packages.
 
 ## Requirements
 
